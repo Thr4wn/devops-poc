@@ -1,0 +1,3 @@
+[submodule "devops-poc-salt"]
+	path = devops-poc-salt
+	url = git@github.com:Thr4wn/devops-poc-salt.git
