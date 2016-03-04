@@ -1,0 +1,20 @@
+
+deployment
+==
+
+requirements
+----
+
+* single button
+* each deploy:
+  * git pull app's master
+  * rails migrate db
+
+
+options
+----
+
+### git checkout sparse
+
+* would prod's .git (.git/config) need to be managed by salt?
+

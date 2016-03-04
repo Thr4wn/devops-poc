@@ -1,7 +1,9 @@
 [ ] deploy app to /srv
 
-[ ] deploy app
+[ ] deployment
     [ ] how to deploy? sparse checkout | checkout submodule ?
+    [ ] change DB. then deploy
+    [ ] rollback production.
     [ ] make salt state to deploy by grain.
     [ ] use piller to define things?
 
@@ -20,4 +22,6 @@
 
 
 [ ] salt: manage .bashrc file.
+
+[ ] install/configure nginx
 
