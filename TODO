@@ -1,6 +1,11 @@
 [ ] deploy app to /srv
 
-[ ] make changes to app; deploy them; snapshot them in docker.
+[ ] deploy app
+    [ ] how to deploy? sparse checkout | checkout submodule ?
+    [ ] make salt state to deploy by grain.
+    [ ] use piller to define things?
+
+[ ] use docker to snapshot changes to prod
 
 [ ] create new AWS for preprod. Then docker pull updates from prod
 
