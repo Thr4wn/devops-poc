@@ -14,3 +14,10 @@
 [ ] on every push to master branch on app repo, automatically deploy.
     [ ] perhaps Huggin?
     [ ] this means that I need a script to deploy. migrate and pull.
+
+
+
+
+
+[ ] salt: manage .bashrc file.
+
