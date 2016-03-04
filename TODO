@@ -1,3 +1,10 @@
+[ ] deploy app to /srv
+
+[ ] make changes to app; deploy them; snapshot them in docker.
+
+[ ] create new AWS for preprod. Then docker pull updates from prod
+
+[ ] packer provision new preprod/prod machines.
 
 [ ] on every push to master branch on app repo, automatically deploy.
     [ ] perhaps Huggin?
