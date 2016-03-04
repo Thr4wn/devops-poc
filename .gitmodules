@@ -4,6 +4,3 @@
 [submodule "devops-poc-app"]
 	path = devops-poc-app
 	url = git@github.com:Thr4wn/devops-poc-app.git
-[submodule "devops-poc-deployment"]
-	path = devops-poc-deployment
-	url = git@github.com:Thr4wn/devops-poc-deployment.git
