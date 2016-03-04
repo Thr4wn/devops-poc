@@ -25,3 +25,5 @@
 
 [ ] install/configure nginx
 
+[ ] pretend that git repos are not public and that salt needs to manage private keys (service accounts) to acces them.
+
