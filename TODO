@@ -1,13 +1,9 @@
-[ ] deployment
-    [ ] how to deploy? sparse checkout | checkout submodule ?
-    [ ] change DB. then deploy
-    [ ] rollback production.
+[ ] use docker to snapshot changes to prod
+[ ] define a "preprod" and docker pull updates from prod
+
+[ ] salt deployment
     [ ] make salt state to deploy by grain.
     [ ] use piller to define things?
-
-[ ] use docker to snapshot changes to prod
-
-[ ] create new AWS for preprod. Then docker pull updates from prod
 
 [ ] packer provision new preprod/prod machines.
 
@@ -15,13 +11,14 @@
     [ ] perhaps Huggin?
     [ ] this means that I need a script to deploy. migrate and pull.
 
-
-
-
+---
 
 [ ] salt: manage .bashrc file.
 
-[ ] install/configure nginx
-
 [ ] pretend that git repos are not public and that salt needs to manage private keys (service accounts) to acces them.
 
+[ ] install/configure nginx
+
+[ ] deployment
+    [ ] change DB. then deploy
+    [ ] rollback production.
