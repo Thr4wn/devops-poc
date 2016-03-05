@@ -1,5 +1,3 @@
-[ ] deploy app to /srv
-
 [ ] deployment
     [ ] how to deploy? sparse checkout | checkout submodule ?
     [ ] change DB. then deploy
